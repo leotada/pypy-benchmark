@@ -1,0 +1,8 @@
+aiofiles==0.4.0
+cffi==1.12.3
+greenlet==0.4.13
+httptools==0.0.13
+multidict==4.5.2
+readline==6.2.4.1
+sanic==19.3.1
+websockets==6.0
